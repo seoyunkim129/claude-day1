@@ -1,0 +1,10 @@
+{
+  "name": "collab-harness",
+  "version": "0.1.0",
+  "description": "AI와 일한 과정을 자동으로 증거로 남기는 하네스: 프로젝트 기록 규칙(CLAUDE.md) 셋업, 결정·검증·AI오류 기록, 세션 자동 로그, 협업 지표 리포트",
+  "author": {
+    "name": "seoyunkim129"
+  },
+  "repository": "https://github.com/seoyunkim129/claude-day1",
+  "keywords": ["ax", "ai-collaboration", "portfolio", "korean"]
+}

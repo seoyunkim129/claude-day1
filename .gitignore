@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+
+# 개인정보·사내 확인 전 자료
+파트장님_확인사항.md
+portfolio/index_private.html
+portfolio/artifact.html

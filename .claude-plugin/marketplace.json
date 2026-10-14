@@ -1,0 +1,14 @@
+{
+  "name": "seoyun-harness",
+  "description": "AI 협업 과정을 기록·측정하는 Claude Code 플러그인 모음",
+  "owner": {
+    "name": "seoyunkim129"
+  },
+  "plugins": [
+    {
+      "name": "collab-harness",
+      "source": "./harness",
+      "description": "AI와 일한 과정을 자동으로 증거로 남기는 하네스"
+    }
+  ]
+}
